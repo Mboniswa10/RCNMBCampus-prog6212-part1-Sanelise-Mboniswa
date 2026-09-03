@@ -54,6 +54,7 @@ fix: improve database constraints and validation
 docs: update RaceDay API endpoint plan
 docs: add database testing and verification notes
 chore: complete final RaceDay project review
+docs: add descriptions for database entities
 
 ## Project Author
 
