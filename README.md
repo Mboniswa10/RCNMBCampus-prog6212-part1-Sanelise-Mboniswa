@@ -19,6 +19,7 @@ docs: add database setup instructions
 
 - SQL Server
 - SQL Server Management Studio
+- docs: add RaceDay database requirements
 
 ### Database Setup
 
