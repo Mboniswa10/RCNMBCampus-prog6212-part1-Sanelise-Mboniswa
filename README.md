@@ -55,6 +55,15 @@ docs: update RaceDay API endpoint plan
 docs: add database testing and verification notes
 chore: complete final RaceDay project review
 docs: add descriptions for database entities
+docs: add descriptions for database entities
+test: add queries to verify RaceDay database data
+fix: review and improve database table relationships
+feat: add additional database validation rules
+fix: improve event and category relationship design
+docs: document participant enrolment process
+docs: document race results data structure
+docs: document authentication and user access requirements
+
 
 ## Project Author
 
