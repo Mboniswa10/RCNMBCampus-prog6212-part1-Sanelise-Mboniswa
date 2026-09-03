@@ -39,7 +39,8 @@ PASTE YOUR UNLISTED YOUTUBE VIDEO LINK HERE
 
 Add a screenshot below showing the successful green CI/CD build.
 
-![Successful CI/CD Build](PASTE-SCREENSHOT-FILE-NAME-HERE)
+![Successful CI/CD Build]<img width="1011" height="299" alt="GREEN CI OR CD BUILD SCREENSHOT" src="https://github.com/user-attachments/assets/0e630336-b450-45e2-aa5a-680bee2ce115" />
+
 
 ## Project Author
 
