@@ -58,12 +58,16 @@ docs: add descriptions for database entities
 docs: add descriptions for database entities
 test: add queries to verify RaceDay database data
 fix: review and improve database table relationships
-feat: add additional database validation rules
-fix: improve event and category relationship design
-docs: document participant enrolment process
-docs: document race results data structure
-docs: document authentication and user access requirements
+feat: add additional database validation rule
 
+## A realistic project timeline
+Day 1: Planned the RaceDay database and requirements.
+Day 2: Created the ERD and database structure.
+Day 3: Developed and tested the SQL script.
+Day 4: Prepared the API endpoint plan.
+Day 5: Updated documentation and README.
+Day 6: Recorded and uploaded the video presentation.
+Day 7: Completed CI/CD evidence and final testing
 
 ## Project Author
 
