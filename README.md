@@ -47,6 +47,10 @@ Add a screenshot below showing the successful green CI/CD build.
 
 fix: improve database constraints and validation
 
+## updates
+
+docs: update RaceDay API endpoint plan
+
 ## Project Author
 
 Sanelise Mboniswa
