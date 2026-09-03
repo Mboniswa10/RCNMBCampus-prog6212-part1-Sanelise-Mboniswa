@@ -14,6 +14,7 @@ This project contains the database design and API planning for the RaceDay syste
 ## Setup Instructions
 
 docs: add database setup instructions
+
 ### Requirements
 
 - SQL Server
@@ -42,6 +43,9 @@ Add a screenshot below showing the successful green CI/CD build.
 
 ![Successful CI/CD Build]<img width="1011" height="299" alt="GREEN CI OR CD BUILD SCREENSHOT" src="https://github.com/user-attachments/assets/0e630336-b450-45e2-aa5a-680bee2ce115" />
 
+## Review database constraints
+
+fix: improve database constraints and validation
 
 ## Project Author
 
