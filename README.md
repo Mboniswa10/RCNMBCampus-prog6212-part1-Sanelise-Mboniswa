@@ -13,6 +13,7 @@ This project contains the database design and API planning for the RaceDay syste
 
 ## Setup Instructions
 
+docs: add database setup instructions
 ### Requirements
 
 - SQL Server
