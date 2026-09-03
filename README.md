@@ -33,7 +33,7 @@ This project contains the database design and API planning for the RaceDay syste
 
 YouTube Video Link:
 
-PASTE YOUR UNLISTED YOUTUBE VIDEO LINK HERE
+https://youtu.be/q_wzMpdmOgk
 
 ## CI/CD Build
 
